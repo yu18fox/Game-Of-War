@@ -1,0 +1,5 @@
+C:\SampleProjects\C#\Game of War\GameOfWar\bin\Debug\GameOfWar.exe.config
+C:\SampleProjects\C#\Game of War\GameOfWar\bin\Debug\GameOfWar.exe
+C:\SampleProjects\C#\Game of War\GameOfWar\bin\Debug\GameOfWar.pdb
+C:\SampleProjects\C#\Game of War\GameOfWar\obj\Debug\GameOfWar.exe
+C:\SampleProjects\C#\Game of War\GameOfWar\obj\Debug\GameOfWar.pdb
